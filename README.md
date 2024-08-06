@@ -5,6 +5,16 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
+Official paper list of the paper "A survey on causal reinforcement learning". Please cite the paper if you feel it helpful to your work,
+```bibtex
+@article{zeng2023survey,
+  title={A survey on causal reinforcement learning},
+  author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
+  journal={arXiv preprint arXiv:2302.05209},
+  year={2023}
+}
+```
+
 
 
 ## :pushpin: Outline
