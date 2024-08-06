@@ -60,13 +60,13 @@ Official repository of the paper "A survey on causal reinforcement learning". Pl
 - (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
 
 ### 2018
-- (**MIT press 2018**) Reinforcement learning: An introduction [[paper](https://www.academia.edu/download/38529120/9780262257053_index.pdf)]
+- (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
 - (**AAAI 2018**) Deep reinforcement learning that matters [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11694)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - (**Basic books 2018**) The Book of Why: the new science of cause and effect [[book](http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf)]
 
 
 ### 2017
-- (**MIT press 2017**) Elements of causal inference: foundations and learning algorithms [[paper](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf?sequence=1&isAllowed=y)]
+- (**MIT press 2017**) Elements of causal inference: foundations and learning algorithms [[book](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf?sequence=1&isAllowed=y)]
 
 ### 2016
 - (**ICML 2016**) Guided cost learning: Deep inverse optimal control via policy optimization [[paper](https://proceedings.mlr.press/v48/finn16.pdf)]
@@ -90,7 +90,7 @@ Official repository of the paper "A survey on causal reinforcement learning". Pl
 - (**MIT press 2001**) Causation, Prediction, and Search [[book](https://philarchive.org/archive/SPICPA-2)]
 
 ### 2000
-- (**Cambridge University Press 2000**) Causality: Models, Reasoning, and Inference [[paper](https://archive.org/details/causalitymodelsr0000pear/page/n9/mode/2up)]
+- (**Cambridge University Press 2000**) Causality: Models, Reasoning, and Inference [[book](https://archive.org/details/causalitymodelsr0000pear/page/n9/mode/2up)]
 
 
 ---
