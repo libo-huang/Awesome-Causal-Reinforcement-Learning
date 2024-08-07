@@ -118,5 +118,8 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 **5. Create a Pull Request:** Go back to your forked repository and click `Compare & pull request`. Alternatively, select your branch from the branch selector and click `Open pull request` from the `Contribute` drop-down menu. Fill out the title and description for your pull request, and click `Create pull request` to submit it.
 
 <div align="right">
-  <a href="#awesome-causal-reinforcement-learning">:top: Back to top</a>
+  <a href="#awesome-causal-reinforcement-learning">:top:</a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=libo-huang.awesome-causal-reinforcement-learning&left_color=blue&right_color=red&format=true" alt="">
 </div>
