@@ -157,7 +157,7 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**MIT press 2017**) Elements of causal inference: foundations and learning algorithms [[book](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf?sequence=1&isAllowed=y)]
 - (**CoRL 2017**) CARLA: An Open Urban Driving Simulator [[paper](https://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)] [[code](https://github.com/carla-simulator/carla)]
 - (**ICML 2017**) Neural Episodic Control [[paper](https://proceedings.mlr.press/v70/pritzel17a.html?ref=https://githubhelp.com)]
-- (**ICML 2017**) Schema networks: Zero-shot transfer with a generative causal model of intuitive physics [[paper](https://proceedings.mlr.press/v70/kansky17a/kansky17a.pdf)] [code]
+- (**ICML 2017**) Schema networks: Zero-shot transfer with a generative causal model of intuitive physics [[paper](https://proceedings.mlr.press/v70/kansky17a.html)]
 - (**TCDS 2017**) A novel parsimonious cause-effect reasoning algorithm for robot imitation and plan recognition [[paper](https://ieeexplore.ieee.org/abstract/document/7812655)] [[code](https://github.com/garrettkatz/ceril)]
 - (**PhD thesis 2017**) Cognitive robotic imitation learning system based on cause-effect reasoning [[thesis](https://api.drum.lib.umd.edu/server/api/core/bitstreams/252d6555-63e5-457e-bd84-fbc94ee21af0/content)]
 - (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
