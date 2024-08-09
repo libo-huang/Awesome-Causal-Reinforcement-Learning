@@ -41,22 +41,28 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 
 
 ### 2022
-
-
+- (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
+- (**JMLR 2022**) On instrumental variable regression for deep offline policy evaluation [[paper](https://www.jmlr.org/papers/volume23/21-0614/21-0614.pdf)] [[code](https://github.com/liyuan9988/IVOPEwithACME)]
 
 ### 2021
 - (**WWW 2021**) Cost-effective and interpretable job skill recommendation with deep reinforcement learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449985)] [[code](https://github.com/sunyinggilly/SkillRec)]
 - (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)]
 - (**Proceedings of the IEEE 2021**) Toward causal representation learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)]
-
- 
+- (**Workshop in NeurIPS**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
+- (**arxiv 2021**) Causal reinforcement learning: An instrumental variable approach [[paper](https://arxiv.org/pdf/2103.04021)]
+- (**NeurIPS 2021**) Deep proxy causal learning and its application to confounded bandit policy evaluation [[paper](https://proceedings.neurips.cc/paper/2021/file/dcf3219715a7c9cd9286f19db46f2384-Paper.pdf)] [[code](https://github.com/liyuan9988/DeepFeatureProxyVariable/)]
+- 
+  
 ### 2020
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
+- (**arxiv 2020**) Causality and batch reinforcement learning: Complementary approaches to planning in unknown domains [[paper](https://arxiv.org/pdf/2006.02579)]
+- (**ICML 2020**) Designing optimal dynamic treatment regimes: A causal reinforcement learning approach [[paper](https://proceedings.mlr.press/v119/zhang20a/zhang20a.pdf)]
 
 ### 2019
 - (**Science 2019**) Human-level performance in 3d multiplayer games with population-based reinforcement learning [[paper](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Jaderberg-etal-2019-Science-Capture-The-Flag.pdf)] [[code](https://www.science.org/doi/10.1126/science.aau6249)]
 - (**Nature 2019**) Grandmaster level in StarCraft II using multi-agent reinforcement learning [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 - (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
+- (**NeurIPS 2019**) Causal confusion in imitation learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/947018640bf36a2bb609d3557a285329-Paper.pdf)] [[code](https://github.com/pimdh/causal-confusion)]
 
 ### 2018
 - (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
