@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
-Official repository of the paper, **A survey on causal reinforcement learning**. Please cite the paper if you feel it is helpful to your work,
+Official repository of the paper, **A survey on causal reinforcement learning**. Particularly list the causal-reinforcement-related papers. If you find the paper useful, please cite it,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
@@ -14,8 +14,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
   year={2023}
 }
 ```
-
-
+Any new related works are welcome via [pull requests](#clap-contribute-chinese-version).
 
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
@@ -48,25 +47,31 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 - (**WWW 2021**) Cost-effective and interpretable job skill recommendation with deep reinforcement learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449985)] [[code](https://github.com/sunyinggilly/SkillRec)]
 - (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)]
 - (**Proceedings of the IEEE 2021**) Toward causal representation learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9363924)]
+- (**CORL 2021**) SMARTS: An Open-Source Scalable Multi-Agent RL Training School for Autonomous Driving [[paper](https://proceedings.mlr.press/v155/zhou21a/zhou21a.pdf)] [[code](https://github.com/huawei-noah/SMARTS)]
 
  
 ### 2020
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
+- (**AAAI 2019**) Virtual-taobao: Virtualizing real-world online retail environment for reinforcement learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4419)] [[code](https://github.com/eyounx/VirtualTaobao)]
 
 ### 2019
 - (**Science 2019**) Human-level performance in 3d multiplayer games with population-based reinforcement learning [[paper](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Jaderberg-etal-2019-Science-Capture-The-Flag.pdf)] [[code](https://www.science.org/doi/10.1126/science.aau6249)]
 - (**Nature 2019**) Grandmaster level in StarCraft II using multi-agent reinforcement learning [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 - (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
+- (**KDD 2017**) Environment reconstruction with hidden confounders for reinforcement learning based recommendation [[paper](https://d1wqtxts1xzle7.cloudfront.net/115305373/1907-libre.pdf?1716685533=&response-content-disposition=inline%3B+filename%3DEnvironment_Reconstruction_with_Hidden_C.pdf&Expires=1723185179&Signature=DNjD-KkhrlKrlJUUjQZRYh8nzARIKOV71VxAvFq5dJzhJBolNwVG7hQf616BJDllYLdn1QZ22M1KKvl0zX21TH9gzfWqkkx3ELL5tiBmsa0LqPUJL2vfzE8nYo5UcwlPsnIsS1Q3dBMv6Lhj7sGbv93x-sXROLjZ4269LdIXJsjb9Z7bwkKBT~79nQiwf1MJgMSrSoyb9xrWqiRoLOufYsIOBBrQa-EffP39LYAllLyO3l9HHcTKI6PYHNQ7-JQ3YPa3sO0ZnODBUrpMja9Qhq1vRiTMFC~3GF-fhkjP9AnHGSsek6~tXHQWVZC2mmuZYTQOyqYFVvRL5PODmCjpWQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
 ### 2018
 - (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
 - (**AAAI 2018**) Deep reinforcement learning that matters [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11694)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - (**Basic books 2018**) The Book of Why: the new science of cause and effect [[book](http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf)]
 - (**Blog 2018**) Introduction to causal reinforcement learning [[blogpost](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+- (**ICML-W 2018**) Playing against nature: causal discovery for decision making under uncertainty [[paper](https://arxiv.org/pdf/1807.01268)]
 
 
 ### 2017
 - (**MIT press 2017**) Elements of causal inference: foundations and learning algorithms [[book](https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf?sequence=1&isAllowed=y)]
+- (**CoRL 2017**) CARLA: An Open Urban Driving Simulator [[paper](https://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)] [[code](https://github.com/carla-simulator/carla)]
+- (**ICML 2017**) Neural Episodic Control [[paper](https://proceedings.mlr.press/v70/pritzel17a.html?ref=https://githubhelp.com)]
 
 ### 2016
 - (**ICML 2016**) Guided cost learning: Deep inverse optimal control via policy optimization [[paper](https://proceedings.mlr.press/v48/finn16.pdf)]
