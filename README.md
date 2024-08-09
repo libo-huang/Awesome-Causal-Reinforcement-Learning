@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
-Official repository of the paper, **A survey on causal reinforcement learning**. Particularly list the causal-reinforcement-related papers. If you find the paper useful, please cite it,
+Official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209). Particularly list the causal-reinforcement-related works. If you find the paper useful, please cite it,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
