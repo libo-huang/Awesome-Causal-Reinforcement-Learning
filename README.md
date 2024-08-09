@@ -14,7 +14,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
   year={2023}
 }
 ```
-Any new related works are welcome via [pull requests](#clap-contribute-chinese-version).
+Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version).
 
 ## :pushpin: Outline
 [:closed_book: Paper](#closed_book-paper)
@@ -86,7 +86,7 @@ Any new related works are welcome via [pull requests](#clap-contribute-chinese-v
 - (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
 - (**AAAI 2018**) Deep reinforcement learning that matters [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11694)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - (**Basic books 2018**) The Book of Why: the new science of cause and effect [[book](http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf)]
-- (**Blog 2018**) Introduction to causal reinforcement learning [[blogpost](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+- (**Personal blog 2018**) Introduction to causal reinforcement learning [[blog](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
 - (**ICML-W 2018**) Playing against nature: causal discovery for decision making under uncertainty [[paper](https://arxiv.org/pdf/1807.01268)]
 
 
@@ -140,7 +140,7 @@ Any new related works are welcome via [pull requests](#clap-contribute-chinese-v
 
 **3. Make Your Changes:** Switch to your new branch using the same selector. Then, click the `Edit file` button at the top right and make your changes. Add entries in the following format:
   ```bash
-  - (**journal/conference_name year**) paper_name [[paper](online_paper_link)] [[code](online_code_link)]
+  - (**publisher_name year**) manuscript_name [[publication_type](online_manuscript_link)] [[code](online_code_link)]
   ```
 
 **4. Commit Changes:** Save your changes by clicking the `Commit changes` button in the upper-right corner. Enter a commit message (e.g., "add 1 cvpr'24 paper") and an extended description if necessary, then confirm your changes by clicking the `Commit changes` button again at the bottom right.
