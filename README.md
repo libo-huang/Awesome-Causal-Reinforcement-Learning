@@ -45,6 +45,8 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 - (**JMLR 2022**) On instrumental variable regression for deep offline policy evaluation [[paper](https://www.jmlr.org/papers/volume23/21-0614/21-0614.pdf)] [[code](https://github.com/liyuan9988/IVOPEwithACME)]
 - (**AAAI 2022**) Invariant action effect model for reinforcement learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20913)]
+- (**ICLR 2022**) A relational intervention approach for unsupervised dynamics generalization in model-based reinforcement learning [[paper](https://openreview.net/pdf?id=YRq0ZUnzKoZ)] [[code](https://github.com/CR-Gjx/RIA)]
+- (**CHIL 2022**) Counterfactually Guided Policy Transfer in Clinical Settings [[paper](https://proceedings.mlr.press/v174/killian22a/killian22a.pdf)] 
 
 
 ### 2021
@@ -72,7 +74,10 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 - (**Nature 2019**) Grandmaster level in StarCraft II using multi-agent reinforcement learning [[paper](https://www.nature.com/articles/s41586-019-1724-z)]
 - (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
 - (**NeurIPS 2019**) Causal confusion in imitation learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2019/file/947018640bf36a2bb609d3557a285329-Paper.pdf)] [[code](https://github.com/pimdh/causal-confusion)]
-
+- (**ICML 2019**) Counterfactual off-policy evaluation with gumbel-max structural causal models [[paper](https://proceedings.mlr.press/v97/oberst19a/oberst19a.pdf)] [[code](https://github.com/clinicalml/gumbel-max-scm)]
+- (**ICLR 2019**) Woulda, coulda, shoulda: Counterfactually-guided policy search [[paper](https://openreview.net/pdf?id=BJG0voC9YQ)]
+- 
+  
 ### 2018
 - (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
 - (**AAAI 2018**) Deep reinforcement learning that matters [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11694)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
