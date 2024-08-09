@@ -148,8 +148,9 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 **5. Create a Pull Request:** Go back to your forked repository and click `Compare & pull request`. Alternatively, select your branch from the branch selector and click `Open pull request` from the `Contribute` drop-down menu. Fill out the title and description for your pull request, and click `Create pull request` to submit it.
 
 <div align="right">
-  <a href="#awesome-causal-reinforcement-learning">:top:</a>
+  <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
 </div>
+    
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=libo-huang.awesome-causal-reinforcement-learning&left_color=blue&right_color=red&format=true" alt="">
 </div>
