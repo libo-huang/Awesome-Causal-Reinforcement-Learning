@@ -34,10 +34,12 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 ## :closed_book: Survey
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
+- (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 - (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)]
 - (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
 - (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
+- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)]
 
 
 
@@ -85,7 +87,6 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**CHIL 2022**) Counterfactually Guided Policy Transfer in Clinical Settings [[paper](https://proceedings.mlr.press/v174/killian22a/killian22a.pdf)]
 - (**ICLR-W 2022**) Invariant causal representation learning for generalization in imitation and reinforcement learning [[paper](https://openreview.net/forum?id=r87xPSd89gq)]
 - (**arXiv 2022**) Offline reinforcement learning with causal structured world models [[paper](https://arxiv.org/pdf/2206.01474)]
-- (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 
 
 
@@ -221,7 +222,6 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**NIPS 2015**) Bandits with unobserved confounders: A causal approach [[paper](https://proceedings.neurips.cc/paper/2015/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)] [[code](https://github.com/ucla-csl/mabuc)]
 - (**TIT 2013**) The principle of maximum causal entropy for estimating interacting processes [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6479340)]
 - (**NIPS 2013**) Playing atari with deep reinforcement learning [[paper](https://arxiv.org/pdf/1312.5602)]
-- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)]
 - (**ICML 2010**) Modeling interaction via the principle of maximum causal entropy [[paper](https://icml.cc/Conferences/2010/papers/28.pdf)]
 - (**ICML 2004**) Apprenticeship learning via inverse reinforcement learning [[paper](https://icml.cc/Conferences/2004/proceedings/papers/335.pdf)]
 - (**MIT press 2001**) Causation, Prediction, and Search [[book](https://philarchive.org/archive/SPICPA-2)]
