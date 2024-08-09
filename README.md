@@ -34,6 +34,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 ## :closed_book: Paper
 ### 2024
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
+- (**JASA 2024**) Off-policy confidence interval estimation with confounded Markov decision process [[paper](https://arxiv.org/pdf/2202.10589)] [[code](https://github.com/callmespring/cope)]
 
 
 ### 2023
@@ -43,6 +44,8 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 ### 2022
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 - (**JMLR 2022**) On instrumental variable regression for deep offline policy evaluation [[paper](https://www.jmlr.org/papers/volume23/21-0614/21-0614.pdf)] [[code](https://github.com/liyuan9988/IVOPEwithACME)]
+- (**AAAI 2022**) Invariant action effect model for reinforcement learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20913)]
+
 
 ### 2021
 - (**WWW 2021**) Cost-effective and interpretable job skill recommendation with deep reinforcement learning [[paper](https://dl.acm.org/doi/pdf/10.1145/3442381.3449985)] [[code](https://github.com/sunyinggilly/SkillRec)]
@@ -51,12 +54,18 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 - (**Workshop in NeurIPS**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
 - (**arxiv 2021**) Causal reinforcement learning: An instrumental variable approach [[paper](https://arxiv.org/pdf/2103.04021)]
 - (**NeurIPS 2021**) Deep proxy causal learning and its application to confounded bandit policy evaluation [[paper](https://proceedings.neurips.cc/paper/2021/file/dcf3219715a7c9cd9286f19db46f2384-Paper.pdf)] [[code](https://github.com/liyuan9988/DeepFeatureProxyVariable/)]
-- 
+- (**arxiv 2021**) Instrumental variable value iteration for causal offline reinforcement learning [[paper](https://arxiv.org/pdf/2102.09907)]
+- (**arxiv 2021**) Causaldyna: Improving generalization of dyna-style reinforcement learning via counterfactual-based data augmentation [[paper](https://openreview.net/pdf/feb5d2e66742510f4a27ef832c2b3d59ea3ef68d.pdf)]
+- (**NeurIPS 2021**) Provably efficient causal reinforcement learning with confounded observational data [[paper](https://proceedings.neurips.cc/paper/2021/file/b0b79da57b95837f14be95aaa4d54cf8-Paper.pdf)]
+- (**ICML 2021**) Model-free and model-based policy evaluation when causality is uncertain [[paper](https://brunssmith.com/wp-content/uploads/2021/06/confound_mdp_icml.pdf)]
   
 ### 2020
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
 - (**arxiv 2020**) Causality and batch reinforcement learning: Complementary approaches to planning in unknown domains [[paper](https://arxiv.org/pdf/2006.02579)]
 - (**ICML 2020**) Designing optimal dynamic treatment regimes: A causal reinforcement learning approach [[paper](https://proceedings.mlr.press/v119/zhang20a/zhang20a.pdf)]
+- (**NeurIPS Workshop 2020**) Sample-efficient reinforcement learning via counterfactual-based data augmentation [[paper](https://offline-rl-neurips.github.io/pdf/34.pdf)]
+- (**NeurIPS 2020**) Off-policy policy evaluation for sequential decisions under unobserved confounding [[paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/da21bae82c02d1e2b8168d57cd3fbab7-Paper.pdf)] [[code](https://github.com/StanfordAI4HI/off_policy_confounding)]
+- 
 
 ### 2019
 - (**Science 2019**) Human-level performance in 3d multiplayer games with population-based reinforcement learning [[paper](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Jaderberg-etal-2019-Science-Capture-The-Flag.pdf)] [[code](https://www.science.org/doi/10.1126/science.aau6249)]
@@ -77,7 +86,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 ### 2016
 - (**ICML 2016**) Guided cost learning: Deep inverse optimal control via policy optimization [[paper](https://proceedings.mlr.press/v48/finn16.pdf)]
 - (**Applied informatics 2016**) Causal discovery and inference: concepts and recent methodological advances [[paper](https://www.researchgate.net/profile/Peter-Spirtes/publication/295088352_Causal_discovery_and_inference_concepts_and_recent_methodological_advances/links/570f95a908aec95f0614da48/Causal-discovery-and-inference-concepts-and-recent-methodological-advances.pdf)]
-
+- (**Technical report 2016**) Markov decision processes with unobserved confounders: A causal approach [[paper](https://www.cs.purdue.edu/homes/eb/mdp-causal.pdf)]
 
 ### 2015
 - (**Nature 2015**) Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)]
