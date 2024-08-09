@@ -51,8 +51,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 
  
 ### 2020
-
-
+- (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
 
 ### 2019
 - (**Science 2019**) Human-level performance in 3d multiplayer games with population-based reinforcement learning [[paper](https://people.eecs.berkeley.edu/~russell/classes/cs294/f21/papers/Jaderberg-etal-2019-Science-Capture-The-Flag.pdf)] [[code](https://www.science.org/doi/10.1126/science.aau6249)]
@@ -63,6 +62,7 @@ Official repository of the paper, **A survey on causal reinforcement learning**.
 - (**MIT press 2018**) Reinforcement learning: An introduction [[book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)]
 - (**AAAI 2018**) Deep reinforcement learning that matters [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/11694)] [[code](https://github.com/Breakend/DeepReinforcementLearningThatMatters)]
 - (**Basic books 2018**) The Book of Why: the new science of cause and effect [[book](http://repo.darmajaya.ac.id/5342/1/The%20book%20of%20why_%20the%20new%20science%20of%20cause%20and%20effect%20%28%20PDFDrive%20%29.pdf)]
+- (**Blog 2018**) Introduction to causal reinforcement learning [[blogpost](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
 
 
 ### 2017
