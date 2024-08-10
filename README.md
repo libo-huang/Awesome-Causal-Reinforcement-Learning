@@ -226,6 +226,9 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**ICML 2004**) Apprenticeship learning via inverse reinforcement learning [[paper](https://icml.cc/Conferences/2004/proceedings/papers/335.pdf)]
 - (**MIT press 2001**) Causation, Prediction, and Search [[book](https://philarchive.org/archive/SPICPA-2)]
 - (**Cambridge University Press 2000**) Causality: Models, Reasoning, and Inference [[book](https://archive.org/details/causalitymodelsr0000pear/page/n9/mode/2up)]
+<div align="right">
+  <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
+</div>
 
 ---
 
