@@ -5,7 +5,21 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
-Official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209). Particularly list the causal-reinforcement-related works up to June 2023. If you find the paper useful, please cite it,
+The official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), particularly lists the causal-reinforcement-related works. A sketch map of the Causal Reinforcement Learning (CRL) framework, that illustrates how causality information inspires current RL algorithms, is illustrated below. 
+
+
+This framework contains possible
+algorithmic connections between planning and causality-inspired learning procedures. Explanations of each arrow are: a) input training data for the causal
+representation or abstraction learning; b) input representations, abstractions
+or training data from real world for the causal model; c) plan over a learned
+or given causal model, d) use information from a policy or value network to
+improve the planning procedure, e) use the result from planning as training
+targets for a policy or value, g) output an action in the real world from the
+planning, h) output an action in the real world from the policy/value function,
+f) input causal representations, abstractions or training data from real world
+for the policy or value update.
+
+If you find the paper useful, please cite it,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
