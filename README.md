@@ -5,19 +5,22 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
-Official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209). Particularly list the causal-reinforcement-related works. If you find the paper useful, please cite it,
+Official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209). Particularly list the causal-reinforcement-related works up to June 2023. If you find the paper useful, please cite it,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
   author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
-  journal={arXiv preprint arXiv:2302.05209},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024}
 }
 ```
-Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version).
+:exclamation: We will continuously update with the latest papers, so the scope of literature covered may extend beyond this survey.
+
+Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
 
 ## :pushpin: Outline
 [:closed_book: Survey](#closed_book-survey)
+
 
 [:bookmark_tabs: Paper](#bookmark_tabs-paper)
 
@@ -35,15 +38,14 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
-- (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)]
 - (**NeurIPS-W 2021**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
-- (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
-- (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
-- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)]
-
-
-
+- (**Blog 2018**) Introduction to causal reinforcement learning [[blog](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+- (自动化学报 **2024**) 基于因果建模的强化学习控制: 现状及展望 [[论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220823)]
+<!--- (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
+- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)] -->
+<!--- (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)] 
+%- (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]-->
 
 
 
@@ -193,7 +195,7 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**Foundations and Trends in Robotics 2018**) An algorithmic perspective on imitation learning [[paper](https://rl.aalto.fi/publication/2018algorithmic/2018algorithmic.pdf)]
 - (**ICML-W 2018**) Playing against nature: causal discovery for decision making under uncertainty [[paper](https://arxiv.org/pdf/1807.01268)]
 - (**arXiv 2018**) Deconfounding reinforcement learning in observational settings [[paper](https://github.com/CausalRL/DRL)] [[code](https://github.com/CausalRL/DRL)]
-- (**Personal blog 2018**) Introduction to causal reinforcement learning [[blog](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+
 
 
 ### 2017
