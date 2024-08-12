@@ -5,19 +5,37 @@
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 
-Official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209). Particularly list the causal-reinforcement-related works. If you find the paper useful, please cite it,
+The official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), particularly lists the causal-reinforcement-related works. A sketch map of the Causal Reinforcement Learning (CRL) framework, that illustrates how causality information inspires current RL algorithms, is illustrated below. 
+<div align="center">
+  <img src="sketch_map_CRL.png" alt="" width="500">
+</div>
+
+> A sketch map of CRL framework that illustrates how causality information inspires current RL algorithms. This framework contains possible algorithmic connections between planning and causality-inspired learning procedures. Explanations of each arrow are,
+> - a) input training data for the causal representation or abstraction learning;
+> - b) input representations, abstractions, or training data from the real world for the causal model;
+> - c) plan over a learned or given causal model,
+> - d) use information from a policy or value network to improve the planning procedure,
+> - e) use the result from planning as training targets for a policy or value,
+> - g) output an action in the real world from the planning,
+> - h) output an action in the real world from the policy/value function,
+> - f) input causal representations, abstractions, or training data from the real world for the policy or value update.
+
+If you find the paper useful, please cite it,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
   author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
-  journal={arXiv preprint arXiv:2302.05209},
-  year={2023}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2024}
 }
 ```
-Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version).
+:exclamation: We will continuously update with the latest papers, so the scope of literature covered may extend beyond this survey.
+
+Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
 
 ## :pushpin: Outline
 [:closed_book: Survey](#closed_book-survey)
+
 
 [:bookmark_tabs: Paper](#bookmark_tabs-paper)
 
@@ -35,15 +53,14 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
-- (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)]
 - (**NeurIPS-W 2021**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
-- (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]
 - (**ICML Tutorials 2020**) Causal reinforcement learning [[tutorial](https://crl.causalai.net/)]
-- (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
-- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)]
-
-
-
+- (**Blog 2018**) Introduction to causal reinforcement learning [[blog](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+- (自动化学报 **2024**) 基于因果建模的强化学习控制: 现状及展望 [[论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220823)]
+<!--- (**ACM Computing Surveys 2017**) Imitation learning: A survey of learning methods [[paper](https://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)]
+- (**IJRR 2013**) Reinforcement learning in robotics: A survey [[paper](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)] -->
+<!--- (**ACM Computing Surveys 2021**) Reinforcement learning in healthcare: A survey [[paper](https://arxiv.org/pdf/1908.08796)] [[code](https://dl.acm.org/doi/abs/10.1145/3477600)] 
+%- (**Frontiers in genetics 2019**) Review of Causal Discovery Methods Based on Graphical Models [[paper](https://par.nsf.gov/servlets/purl/10125762)]-->
 
 
 
@@ -51,17 +68,28 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 ## :bookmark_tabs: Paper
 ### 2024
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
+- (**ICML 2024**) ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization [[paper](https://proceedings.mlr.press/v235/ji24b.html)] [[code](https://github.com/jity16/ACE-Off-Policy-Actor-Critic-with-Causality-Aware-Entropy-Regularization)]
+- (**ICML 2024**) Causal Action Influence Aware Counterfactual Data Augmentation [[paper](https://proceedings.mlr.press/v235/armengol-urpi-24a.html)] [[code](https://github.com/martius-lab/caiac)]
+- (**ICML 2024**) Learning Causal Dynamics Models in Object-Oriented Environments [[paper](https://proceedings.mlr.press/v235/yu24j.html)] [[code](https://github.com/EaseOnway/oocdm)]
+- (**ICML 2024**) Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs [[paper](https://proceedings.mlr.press/v235/triantafyllou24a.html)] [[code](https://github.com/stelios30/agent-specific-effects)]
+- (**ICML 2024**) Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation [[paper](https://proceedings.mlr.press/v235/zhang24ah.html)] [[code](https://github.com/PKU-RL/COREP)]
+- (**ICML 2024**) Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [[paper](https://proceedings.mlr.press/v235/hwang24b.html)] [[code](https://github.com/iwhwang/Fine-Grained-Causal-RL)]
+- (**ICML 2024**) Causal Bandits: The Pareto Optimal Frontier of Adaptivity, a Reduction to Linear Bandits, and Limitations around Unknown Marginals [[paper](https://proceedings.mlr.press/v235/liu24b.html)]
+- (**IJCAI 2024**) Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge [[paper](https://arxiv.org/pdf/2407.20506)] [[code](https://github.com/CMACH508/CausalExploration)]
 - (**JASA 2024**) Off-policy confidence interval estimation with confounded Markov decision process [[paper](https://arxiv.org/pdf/2202.10589)] [[code](https://github.com/callmespring/cope)]
 
 
 
 ### 2023 
+- (**NeurIPS 2023**) Learning world models with identifiable factorization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65496a4902252d301cdf219339bfbf9e-Paper-Conference.pdf)] [[code](https://github.com/AlexLiuyuren/IFactor)]
+- (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
 - (**TPAMI 2023**) Invariant policy learning: A causal perspective [[paper](https://ieeexplore.ieee.org/abstract/document/10005169)]
 - (**TNNLS 2023**) Sample efficient deep reinforcement learning with online state abstraction and causal transformer model prediction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219179)]
 - (**TII 2023**) Spatial-temporal causality modeling for industrial processes with a knowledge-data guided reinforcement learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352645)]
 - (**JRSSB 2023**) Estimating and improving dynamic treatment regimes with a time-varying instrumental variable [[paper](https://arxiv.org/pdf/2104.07822)]
 - (**Operations Research 2023**) Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes [[paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.0781)] [[code](https://github.com/CausalML/ProximalRL)]
-- (**The Annals of Statistics 2023**) Off-policy evaluation in partially observed Markov decision processes [[paper](https://arxiv.org/pdf/2110.12343)] 
+- (**The Annals of Statistics 2023**) Off-policy evaluation in partially observed Markov decision processes [[paper](https://arxiv.org/pdf/2110.12343)]
+- (**arxiv 2023**) MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment [[paper](https://openreview.net/pdf?id=mFBR2ksIwY)]
 
 
 
@@ -193,7 +221,7 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 - (**Foundations and Trends in Robotics 2018**) An algorithmic perspective on imitation learning [[paper](https://rl.aalto.fi/publication/2018algorithmic/2018algorithmic.pdf)]
 - (**ICML-W 2018**) Playing against nature: causal discovery for decision making under uncertainty [[paper](https://arxiv.org/pdf/1807.01268)]
 - (**arXiv 2018**) Deconfounding reinforcement learning in observational settings [[paper](https://github.com/CausalRL/DRL)] [[code](https://github.com/CausalRL/DRL)]
-- (**Personal blog 2018**) Introduction to causal reinforcement learning [[blog](https://causallu.com/2018/12/31/introduction-to-causalrl/)]
+
 
 
 ### 2017
@@ -212,20 +240,23 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 
 
 ### Pre-2017
-- (**Applied informatics 2016**) Causal discovery and inference: concepts and recent methodological advances [[paper](https://www.researchgate.net/profile/Peter-Spirtes/publication/295088352_Causal_discovery_and_inference_concepts_and_recent_methodological_advances/links/570f95a908aec95f0614da48/Causal-discovery-and-inference-concepts-and-recent-methodological-advances.pdf)]
-- (**ICML 2016**) Guided cost learning: Deep inverse optimal control via policy optimization [[paper](https://proceedings.mlr.press/v48/finn16.pdf)]
 - (**NIPS 2016**) Causal bandits: Learning good interventions via causal inference [[paper](https://proceedings.neurips.cc/paper/2016/file/b4288d9c0ec0a1841b3b3728321e7088-Paper.pdf)] [[code](https://github.com/finnhacks42/causal_bandits)]
 - (**ICAGI 2016**) Imitation learning as cause-effect reasoning [[paper](https://www.academia.edu/download/101188481/katz_et_al_AGI2016.pdf)] [[code](https://github.com/garrettkatz/copct)]
 - (**Technical report 2016**) Markov decision processes with unobserved confounders: A causal approach [[paper](https://www.cs.purdue.edu/homes/eb/mdp-causal.pdf)]
+- (**NIPS 2015**) Bandits with unobserved confounders: A causal approach [[paper](https://proceedings.neurips.cc/paper/2015/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)] [[code](https://github.com/ucla-csl/mabuc)]
+
+<!--
+- (**ICML 2016**) Guided cost learning: Deep inverse optimal control via policy optimization [[paper](https://proceedings.mlr.press/v48/finn16.pdf)]
+- (**Applied informatics 2016**) Causal discovery and inference: concepts and recent methodological advances [[paper](https://www.researchgate.net/profile/Peter-Spirtes/publication/295088352_Causal_discovery_and_inference_concepts_and_recent_methodological_advances/links/570f95a908aec95f0614da48/Causal-discovery-and-inference-concepts-and-recent-methodological-advances.pdf)]
 - (**Nature 2015**) Human-level control through deep reinforcement learning [[paper](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)]
 - (**Cambridge University Press 2015**) Causal inference in statistics, social, and biomedical sciences [[book](https://wiki.swarma.org/images/5/54/-Guido_W._Imbens%2C_Donald_B._Rubin-_Causal_Inferenc%28z-lib.org%29.pdf)]
-- (**NIPS 2015**) Bandits with unobserved confounders: A causal approach [[paper](https://proceedings.neurips.cc/paper/2015/file/795c7a7a5ec6b460ec00c5841019b9e9-Paper.pdf)] [[code](https://github.com/ucla-csl/mabuc)]
 - (**TIT 2013**) The principle of maximum causal entropy for estimating interacting processes [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6479340)]
 - (**NIPS 2013**) Playing atari with deep reinforcement learning [[paper](https://arxiv.org/pdf/1312.5602)]
 - (**ICML 2010**) Modeling interaction via the principle of maximum causal entropy [[paper](https://icml.cc/Conferences/2010/papers/28.pdf)]
 - (**ICML 2004**) Apprenticeship learning via inverse reinforcement learning [[paper](https://icml.cc/Conferences/2004/proceedings/papers/335.pdf)]
 - (**MIT press 2001**) Causation, Prediction, and Search [[book](https://philarchive.org/archive/SPICPA-2)]
 - (**Cambridge University Press 2000**) Causality: Models, Reasoning, and Inference [[book](https://archive.org/details/causalitymodelsr0000pear/page/n9/mode/2up)]
+-->
 <div align="right">
   <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
 </div>
