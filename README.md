@@ -81,12 +81,15 @@ Any new related works are welcome to be added via [pull requests](#clap-contribu
 
 
 ### 2023 
+- (**NeurIPS 2023**) Learning world models with identifiable factorization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65496a4902252d301cdf219339bfbf9e-Paper-Conference.pdf)] [[code](https://github.com/AlexLiuyuren/IFactor)]
+- (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
 - (**TPAMI 2023**) Invariant policy learning: A causal perspective [[paper](https://ieeexplore.ieee.org/abstract/document/10005169)]
 - (**TNNLS 2023**) Sample efficient deep reinforcement learning with online state abstraction and causal transformer model prediction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219179)]
 - (**TII 2023**) Spatial-temporal causality modeling for industrial processes with a knowledge-data guided reinforcement learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352645)]
 - (**JRSSB 2023**) Estimating and improving dynamic treatment regimes with a time-varying instrumental variable [[paper](https://arxiv.org/pdf/2104.07822)]
 - (**Operations Research 2023**) Proximal Reinforcement Learning: Efficient Off-Policy Evaluation in Partially Observed Markov Decision Processes [[paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.0781)] [[code](https://github.com/CausalML/ProximalRL)]
-- (**The Annals of Statistics 2023**) Off-policy evaluation in partially observed Markov decision processes [[paper](https://arxiv.org/pdf/2110.12343)] 
+- (**The Annals of Statistics 2023**) Off-policy evaluation in partially observed Markov decision processes [[paper](https://arxiv.org/pdf/2110.12343)]
+- (**arxiv 2023**) MACCA: Offline Multi-agent Reinforcement Learning with Causal Credit Assignment [[paper](https://openreview.net/pdf?id=mFBR2ksIwY)]
 
 
 
