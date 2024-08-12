@@ -1,11 +1,27 @@
 # Awesome Causal Reinforcement Learning
 [![](https://awesome.re/badge.svg)](#awesome-causal-reinforcement-learning)
-[![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](#pushpin-outline)
-[![](https://img.shields.io/badge/Issues-Open-1f425f.svg)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning/issues)
 [![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
+![](https://img.shields.io/github/last-commit/libo-huang/Awesome-Causal-Reinforcement-Learning.svg)
 
-The official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), particularly lists the causal-reinforcement-related works. A sketch map of the Causal Reinforcement Learning (CRL) framework, that illustrates how causality information inspires current RL algorithms, is illustrated below. 
+## :pushpin: Outline
+[:information_desk_person: Abstract](#information_desk_person-abstract)
+
+[:closed_book: Survey](#closed_book-survey)
+
+[:bookmark_tabs: Paper](#bookmark_tabs-paper)
+
+&emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
+
+[:clap: Contribute](#clap-contribute-chinese-version)
+
+---
+
+
+
+
+## :information_desk_person: Abstract
+The official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), particularly lists the causal-reinforcement-related works. How causality information inspires current RL algorithms is illustrated in the below Causal Reinforcement Learning (CRL) framework,
 <div align="center">
   <img src="sketch_map_CRL.png" alt="" width="500">
 </div>
@@ -20,7 +36,7 @@ The official repository of the paper, [**A survey on causal reinforcement learni
 > - h) output an action in the real world from the policy/value function,
 > - f) input causal representations, abstractions, or training data from the real world for the policy or value update.
 
-If you find the paper useful, please cite it,
+If you find the paper useful, please cite with,
 ```bibtex
 @article{zeng2023survey,
   title={A survey on causal reinforcement learning},
@@ -29,19 +45,13 @@ If you find the paper useful, please cite it,
   year={2024}
 }
 ```
-:exclamation: We will continuously update with the latest papers, so the scope of literature covered may extend beyond this survey.
+:bangbang: We have been continuously updating the latest papers, so the scope of literature covered may extend beyond this survey.
 
-Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
+:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
 
-## :pushpin: Outline
-[:closed_book: Survey](#closed_book-survey)
-
-
-[:bookmark_tabs: Paper](#bookmark_tabs-paper)
-
-&emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
-
-[:clap: Contribute](#clap-contribute-chinese-version)
+<div align="right">
+  <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
+</div>
 
 ---
 
