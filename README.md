@@ -1,6 +1,6 @@
 # Awesome Causal Reinforcement Learning
 [![](https://awesome.re/badge.svg)](#awesome-causal-reinforcement-learning)
-[![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contribute-chinese-version)
+[![](https://img.shields.io/badge/Contribution-Welcome-1f425f)](#clap-contribution-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 ![](https://img.shields.io/github/last-commit/libo-huang/Awesome-Causal-Reinforcement-Learning.svg)
 
