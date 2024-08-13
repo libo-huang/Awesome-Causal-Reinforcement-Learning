@@ -7,19 +7,19 @@
 
 ## 📌 Contents
 
-[💁 Abstract](#information_desk_person-abstract)
+[:information_desk_person: Abstract](#information_desk_person-abstract)
 
-[📕 Surveys](#closed_book-surveys)
+[:closed_book: Surveys](#closed_book-surveys)
 
-[📑 Papers](#bookmark_tabs-papers)
+[:bookmark_tabs: Papers](#bookmark_tabs-papers)
 
 &emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
 
-[👏 Contributions](#clap-contributions-chinese-version)
+[:clap: Contributions](#clap-contributions-chinese-version)
 
 ---
 
-## 💁 Abstract
+## :information_desk_person: Abstract
 
 Causal Reinforcement Learning (CRL) is a suite of algorithms, embedding causal knowledge into RL for more efficient and effective model learning, policy evaluation, or policy optimization.
 How causality information inspires current RL algorithms is illustrated in the below CRL framework,
@@ -64,7 +64,7 @@ If you find the paper useful, please cite with,
 
 ---
 
-## 📕 Surveys
+## :closed_book: Surveys
 
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
@@ -86,7 +86,7 @@ If you find the paper useful, please cite with,
 
 ---
 
-## 📑 Papers
+## :bookmark_tabs: Papers
 
 ### 2024
 
@@ -265,7 +265,7 @@ If you find the paper useful, please cite with,
 
 ---
 
-## 👏 Contributions [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :clap: Contributions [[chinese version](http://t.csdnimg.cn/S1rvo)]
 
 **1. Fork the Repository:** Click on the `Fork` button in the top-right corner to create a copy of the repository in your GitHub account.
 
