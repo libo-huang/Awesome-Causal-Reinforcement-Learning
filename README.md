@@ -1,19 +1,19 @@
 # Awesome Causal Reinforcement Learning
 [![](https://awesome.re/badge.svg)](#awesome-causal-reinforcement-learning)
-[![](https://img.shields.io/badge/Contribution-Welcome-1f425f)](#clap-contribution-chinese-version)
+[![](https://img.shields.io/badge/Contributions-Welcome-1f425f)](#clap-contributions-chinese-version)
 [![](https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=flat&color=C7A5C0)](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning)
 [![](https://img.shields.io/github/last-commit/libo-huang/Awesome-Causal-Reinforcement-Learning.svg)](#awesome-causal-reinforcement-learning)
 
-## :pushpin: Outline
+## :pushpin: Contents
 [:information_desk_person: Abstract](#information_desk_person-abstract)
 
-[:closed_book: Survey](#closed_book-survey)
+[:closed_book: Surveys](#closed_book-surveys)
 
-[:bookmark_tabs: Paper](#bookmark_tabs-paper)
+[:bookmark_tabs: Papers](#bookmark_tabs-papers)
 
 &emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
 
-[:clap: Contribution](#clap-contribution-chinese-version)
+[:clap: Contributions](#clap-contributions-chinese-version)
 
 ---
 
@@ -49,7 +49,7 @@ If you find the paper useful, please cite with,
 ```
 :bangbang: We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
 
-:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contribution-chinese-version). 
+:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contributions-chinese-version). 
 
 <div align="right">
   <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
@@ -61,7 +61,7 @@ If you find the paper useful, please cite with,
 
 
 
-## :closed_book: Survey
+## :closed_book: Surveys
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
@@ -77,7 +77,10 @@ If you find the paper useful, please cite with,
 
 
 
-## :bookmark_tabs: Paper
+
+
+
+## :bookmark_tabs: Papers
 ### 2024
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
 - (**ICML 2024**) ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization [[paper](https://proceedings.mlr.press/v235/ji24b.html)] [[code](https://github.com/jity16/ACE-Off-Policy-Actor-Critic-with-Causality-Aware-Entropy-Regularization)]
@@ -280,7 +283,7 @@ If you find the paper useful, please cite with,
 
 
 
-## :clap: Contribution [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :clap: Contributions [[chinese version](http://t.csdnimg.cn/S1rvo)]
 **1. Fork the Repository:** Click on the `Fork` button in the top-right corner to create a copy of the repository in your GitHub account.
 
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
