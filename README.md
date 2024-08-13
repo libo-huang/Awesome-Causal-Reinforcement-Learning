@@ -24,7 +24,7 @@
 Causal Reinforcement Learning (CRL) is a suite of algorithms, embedding causal knowledge into RL for more efficient and effective model learning, policy evaluation, or policy optimization.
 How causality information inspires current RL algorithms is illustrated in the below CRL framework,
 <div align="center">
-  <img src="sketch_map_CRL.png" alt="" width="500">
+  <img src="./utils/sketch_map_CRL.png" alt="" width="500">
 </div>
 
 > A sketch map of CRL framework that illustrates how causality information inspires current RL algorithms. This framework contains possible algorithmic connections between planning and causality-inspired learning procedures. Explanations of each arrow are,
