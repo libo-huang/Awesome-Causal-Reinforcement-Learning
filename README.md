@@ -36,6 +36,8 @@ The official repository of the paper, [**A survey on causal reinforcement learni
 > - h) output an action in the real world from the policy/value function,
 > - f) input causal representations, abstractions, or training data from the real world for the policy or value update.
 
+Note that most CRL algorithms implement only a subset of the possible connections with causality, enjoying potential benefits in data efficiency, interpretability, robustness, or generalization of the model or policy.
+
 If you find the paper useful, please cite with,
 ```bibtex
 @article{zeng2023survey,
