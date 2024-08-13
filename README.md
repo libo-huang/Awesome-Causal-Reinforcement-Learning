@@ -13,7 +13,7 @@
 
 &emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
 
-[:clap: Contribute](#clap-contribute-chinese-version)
+[:clap: Contribution](#clap-contribution-chinese-version)
 
 ---
 
@@ -47,7 +47,7 @@ If you find the paper useful, please cite with,
 ```
 :bangbang: We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
 
-:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
+:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contribution-chinese-version). 
 
 <div align="right">
   <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
@@ -278,7 +278,7 @@ If you find the paper useful, please cite with,
 
 
 
-## :clap: Contribute [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :clap: Contribution [[chinese version](http://t.csdnimg.cn/S1rvo)]
 **1. Fork the Repository:** Click on the `Fork` button in the top-right corner to create a copy of the repository in your GitHub account.
 
 **2. Create a New Branch:** In your forked repository, create a new branch (e.g., "libo") by using the branch selector button near the top-left (usually labeled `master` or `main`).
