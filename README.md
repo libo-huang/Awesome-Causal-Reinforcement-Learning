@@ -45,7 +45,7 @@ If you find the paper useful, please cite with,
   year={2024}
 }
 ```
-:bangbang: We have been continuously updating the latest papers, so the scope of literature covered may extend beyond this survey.
+:bangbang: We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
 
 :interrobang: Any new related works are welcome to be added via [pull requests](#clap-contribute-chinese-version). 
 
