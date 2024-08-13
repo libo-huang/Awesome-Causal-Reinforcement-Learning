@@ -21,7 +21,8 @@
 
 
 ## :information_desk_person: Abstract
-The official repository of the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), particularly lists the causal-reinforcement-related works. How causality information inspires current RL algorithms is illustrated in the below Causal Reinforcement Learning (CRL) framework,
+Causal Reinforcement Learning (CRL) is a suite of algorithms, embedding causal knowledge into RL for more efficient and effective model learning, policy evaluation, or policy optimization.
+How causality information inspires current RL algorithms is illustrated in the below CRL framework,
 <div align="center">
   <img src="sketch_map_CRL.png" alt="" width="500">
 </div>
@@ -38,6 +39,12 @@ The official repository of the paper, [**A survey on causal reinforcement learni
 
 Note that most CRL algorithms implement only a subset of the possible connections with causality, enjoying potential benefits in data efficiency, interpretability, robustness, or generalization of the model or policy.
 
+We detailed a comprehensive survey of CRL in the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), and particularly list the causal-reinforcement-related works in this repository. 
+
+:bangbang: We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
+
+:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contributions-chinese-version). 
+
 If you find the paper useful, please cite with,
 ```bibtex
 @article{zeng2023survey,
@@ -47,9 +54,6 @@ If you find the paper useful, please cite with,
   year={2024}
 }
 ```
-:bangbang: We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
-
-:interrobang: Any new related works are welcome to be added via [pull requests](#clap-contributions-chinese-version). 
 
 <div align="right">
   <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
