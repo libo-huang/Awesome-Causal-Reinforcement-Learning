@@ -148,7 +148,6 @@ If you find the paper useful, please cite with,
 
 
 
-- (**ICML 2024**) Causal Action Influence Aware Counterfactual Data Augmentation [[paper](https://proceedings.mlr.press/v235/armengol-urpi-24a.html)] [[code](https://github.com/martius-lab/caiac)]
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
 - (**ICML 2024**) ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization [[paper](https://proceedings.mlr.press/v235/ji24b.html)] [[code](https://github.com/jity16/ACE-Off-Policy-Actor-Critic-with-Causality-Aware-Entropy-Regularization)]
 - (**ICML 2024**) Causal Action Influence Aware Counterfactual Data Augmentation [[paper](https://proceedings.mlr.press/v235/armengol-urpi-24a.html)] [[code](https://github.com/martius-lab/caiac)]
