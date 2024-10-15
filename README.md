@@ -156,6 +156,7 @@ If you find the paper useful, please cite with,
 - (**ICML 2024**) Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation [[paper](https://proceedings.mlr.press/v235/zhang24ah.html)] [[code](https://github.com/PKU-RL/COREP)]
 - (**ICML 2024**) Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [[paper](https://proceedings.mlr.press/v235/hwang24b.html)] [[code](https://github.com/iwhwang/Fine-Grained-Causal-RL)]
 - (**ICML 2024**) Causal Bandits: The Pareto Optimal Frontier of Adaptivity, a Reduction to Linear Bandits, and Limitations around Unknown Marginals [[paper](https://proceedings.mlr.press/v235/liu24b.html)]
+- (**AAAI 2024**) ACAMDA: Improving Data Efficiency in Reinforcement Learning Through Guided Counterfactual Data Augmentation [[paper](https://openreview.net/pdf?id=4pjgPGB1qr)] 
 - (**IJCAI 2024**) Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge [[paper](https://arxiv.org/pdf/2407.20506)] [[code](https://github.com/CMACH508/CausalExploration)]
 - (**JASA 2024**) Off-policy confidence interval estimation with confounded Markov decision process [[paper](https://arxiv.org/pdf/2202.10589)] [[code](https://github.com/callmespring/cope)]
 
