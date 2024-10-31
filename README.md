@@ -146,6 +146,8 @@ If you find the paper useful, please cite with,
 ## :bookmark_tabs: Papers
 ### 2024
 
+
+
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
 - (**ICML 2024**) ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization [[paper](https://proceedings.mlr.press/v235/ji24b.html)] [[code](https://github.com/jity16/ACE-Off-Policy-Actor-Critic-with-Causality-Aware-Entropy-Regularization)]
 - (**ICML 2024**) Causal Action Influence Aware Counterfactual Data Augmentation [[paper](https://proceedings.mlr.press/v235/armengol-urpi-24a.html)] [[code](https://github.com/martius-lab/caiac)]
@@ -154,6 +156,7 @@ If you find the paper useful, please cite with,
 - (**ICML 2024**) Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation [[paper](https://proceedings.mlr.press/v235/zhang24ah.html)] [[code](https://github.com/PKU-RL/COREP)]
 - (**ICML 2024**) Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [[paper](https://proceedings.mlr.press/v235/hwang24b.html)] [[code](https://github.com/iwhwang/Fine-Grained-Causal-RL)]
 - (**ICML 2024**) Causal Bandits: The Pareto Optimal Frontier of Adaptivity, a Reduction to Linear Bandits, and Limitations around Unknown Marginals [[paper](https://proceedings.mlr.press/v235/liu24b.html)]
+- (**AAAI 2024**) ACAMDA: Improving Data Efficiency in Reinforcement Learning Through Guided Counterfactual Data Augmentation [[paper](https://openreview.net/pdf?id=4pjgPGB1qr)] 
 - (**IJCAI 2024**) Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge [[paper](https://arxiv.org/pdf/2407.20506)] [[code](https://github.com/CMACH508/CausalExploration)]
 - (**JASA 2024**) Off-policy confidence interval estimation with confounded Markov decision process [[paper](https://arxiv.org/pdf/2202.10589)] [[code](https://github.com/callmespring/cope)]
 
@@ -167,6 +170,7 @@ If you find the paper useful, please cite with,
 
 - (**NeurIPS 2023**) Learning world models with identifiable factorization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65496a4902252d301cdf219339bfbf9e-Paper-Conference.pdf)] [[code](https://github.com/AlexLiuyuren/IFactor)]
 - (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
+- (**ICLR 2023**) Causal Confusion and Reward Misidentification in Preference-Based Reward Learning [[paper](https://arxiv.org/pdf/2204.06601)]
 - (**TPAMI 2023**) Invariant policy learning: A causal perspective [[paper](https://ieeexplore.ieee.org/abstract/document/10005169)]
 - (**TNNLS 2023**) Sample efficient deep reinforcement learning with online state abstraction and causal transformer model prediction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219179)]
 - (**TII 2023**) Spatial-temporal causality modeling for industrial processes with a knowledge-data guided reinforcement learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352645)]
@@ -193,6 +197,7 @@ If you find the paper useful, please cite with,
 - (**NeurIPS 2022**) Causality-driven hierarchical structure discovery for reinforcement learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/7e9fbd01b3084956dd8a070c7bf30bad-Paper-Conference.pdf)]
 - (**NeurIPS 2022**) Factored Adaptation for Non-stationary Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf4356f994917177213c55ff438ddf71-Paper-Conference.pdf)]
 - (**NeurIPS 2022**) Online reinforcement learning for mixed policy scopes [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/15349e1c554406b7719d047a498e7117-Abstract-Conference.html)]
+- (**NeurIPS 2022**) Sequence Model Imitation Learning with Unobserved Contexts [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/708e58b0b99e3e62d42022b4564bad7a-Paper-Conference.pdf)] [[code](https://github.com/gkswamy98/sequence_model_il)]
 - (**ICML 2022**) Fighting fire with fire: avoiding dnn shortcuts through priming [[paper](https://proceedings.mlr.press/v162/wen22d/wen22d.pdf)] [[code](https://github.com/AlvinWen428/fighting-fire-with-fire)]
 - (**ICML 2022**) A minimax learning approach to off-policy evaluation in confounded partially observable Markov decision processes [[paper](https://proceedings.mlr.press/v162/shi22f/shi22f.pdf)] [[code](https://github.com/jiaweihhuang/Confounded-POMDP-Exp)]
 - (**ICML 2022**) Action-sufficient state representation learning for control with structural constraints [[paper](https://proceedings.mlr.press/v162/huang22f/huang22f.pdf)]
