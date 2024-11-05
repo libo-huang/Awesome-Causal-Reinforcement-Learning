@@ -380,7 +380,7 @@ If you find the paper useful, please cite with,
 
 
 
-## :clap: Contributions [[chinese version](http://t.csdnimg.cn/S1rvo)]
+## :clap: Contributions [[chinese version](https://blog.csdn.net/HLBoy_happy/article/details/140026155?fromshare=blogdetail&sharetype=blogdetail&sharerId=140026155&sharerefer=PC&sharesource=HLBoy_happy&sharefrom=from_link)]
 
 **1. Fork the Repository:** Click on the `Fork` button in the top-right corner to create a copy of the repository in your GitHub account.
 
