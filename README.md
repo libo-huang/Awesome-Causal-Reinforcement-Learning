@@ -69,11 +69,12 @@ We detailed a comprehensive survey of CRL in the paper, [**A survey on causal re
 If you find the paper useful, please cite with,
 
 ```bibtex
-@article{zeng2023survey,
+@article{zeng2024survey,
   title={A survey on causal reinforcement learning},
   author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2024}
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
