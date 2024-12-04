@@ -60,7 +60,7 @@ How causality information inspires current RL algorithms is illustrated in the b
 
 Note that most CRL algorithms implement only a subset of the possible connections with causality, enjoying potential benefits in data efficiency, interpretability, robustness, or generalization of the model or policy.
 
-We detailed a comprehensive survey of CRL in the paper, [**A survey on causal reinforcement learning**](https://arxiv.org/pdf/2302.05209), and particularly list the causal-reinforcement-related works in this repository.
+We detailed a comprehensive survey of CRL in the paper, [**A survey on causal reinforcement learning**](https://ieeexplore.ieee.org/abstract/document/10771589), and particularly list the causal-reinforcement-related works in this repository.
 
 ‼️ We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
 
@@ -103,7 +103,7 @@ If you find the paper useful, please cite with,
 
 
 ## :closed_book: Surveys
-- (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://arxiv.org/pdf/2302.05209)]
+- (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://ieeexplore.ieee.org/abstract/document/10771589)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 - (**NeurIPS-W 2021**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
