@@ -62,10 +62,6 @@ Note that most CRL algorithms implement only a subset of the possible connection
 
 We detailed a comprehensive survey of CRL in the paper, [**A survey on causal reinforcement learning**](https://ieeexplore.ieee.org/abstract/document/10771589), and particularly list the causal-reinforcement-related works in this repository.
 
-‼️ We have been continuously updating the latest papers, so the scope of literature covered extends beyond the above survey.
-
-⁉️ Any new related works are welcome to be added via [pull requests](#clap-contributions-chinese-version).
-
 If you find the paper useful, please cite with,
 
 ```bibtex
@@ -76,7 +72,14 @@ If you find the paper useful, please cite with,
   year={2024},
   publisher={IEEE}
 }
+
 ```
+
+‼️ We have continuously updated the latest papers, so the scope of the literature covered extends beyond the above survey.
+
+⁉️ Any new related works are welcome to be added via [pull requests](#clap-contributions-chinese-version).
+
+
 
 <div align="right">
   <a href="#awesome-causal-reinforcement-learning" style="font-size: 40px;">:top:</a>
