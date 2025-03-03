@@ -150,8 +150,7 @@ If you find the paper useful, please cite with,
 
 ## :bookmark_tabs: Papers
 
-### 2025
-- 
+
 
 
 ### 2024
