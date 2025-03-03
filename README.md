@@ -108,6 +108,7 @@ If you find the paper useful, please cite with,
 
 ## :closed_book: Surveys
 - (**TNNLS 2024**) A survey on causal reinforcement learning [[paper](https://ieeexplore.ieee.org/abstract/document/10771589)]
+- (**arxiv 2025**) A review on causal decision making [[paper](https://arxiv.org/pdf/2502.16156)] [[code](https://causaldm.github.io/Causal-Decision-Making/Overview.html)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
 - (**arxiv 2022**) Causal machine learning: A survey and open problems [[paper](https://arxiv.org/pdf/2206.15475)]
 - (**NeurIPS-W 2021**) Causal multi-agent reinforcement learning: Review and open problems [[paper](https://arxiv.org/pdf/2111.06721)]
@@ -148,10 +149,12 @@ If you find the paper useful, please cite with,
 
 
 ## :bookmark_tabs: Papers
+
+### 2025
+- 
+
+
 ### 2024
-
-
-
 - (**ICML 2024**) Policy learning for balancing short-term and long-term rewards [[paper](https://openreview.net/pdf?id=7Qf1uHTahP)] [[code](https://github.com/YanaZeng/Short_long_term-Rewards)]
 - (**ICML 2024**) ACE: Off-Policy Actor-Critic with Causality-Aware Entropy Regularization [[paper](https://proceedings.mlr.press/v235/ji24b.html)] [[code](https://github.com/jity16/ACE-Off-Policy-Actor-Critic-with-Causality-Aware-Entropy-Regularization)]
 - (**ICML 2024**) Causal Action Influence Aware Counterfactual Data Augmentation [[paper](https://proceedings.mlr.press/v235/armengol-urpi-24a.html)] [[code](https://github.com/martius-lab/caiac)]
@@ -163,7 +166,9 @@ If you find the paper useful, please cite with,
 - (**AAAI 2024**) ACAMDA: Improving Data Efficiency in Reinforcement Learning Through Guided Counterfactual Data Augmentation [[paper](https://openreview.net/pdf?id=4pjgPGB1qr)] 
 - (**IJCAI 2024**) Boosting Efficiency in Task-Agnostic Exploration through Causal Knowledge [[paper](https://arxiv.org/pdf/2407.20506)] [[code](https://github.com/CMACH508/CausalExploration)]
 - (**JASA 2024**) Off-policy confidence interval estimation with confounded Markov decision process [[paper](https://arxiv.org/pdf/2202.10589)] [[code](https://github.com/callmespring/cope)]
-
+- (**NeurIPS 2024**) Identifying Latent State-Transition Processes fo Individualized Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/e1d40e928125c515099a3fdb75f06a50-Paper-Conference.pdf)]
+- (**NeurIPS 2024**) Interpretable Reward Redistribution in Reinforcement Learning: A Causal Approach [[paper](https://openreview.net/pdf?id=w7TyuWhGZP)]
+- (**NeurIPS 2024**) Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c50e3c72bf45a361afc7c16d26c21a1a-Paper-Conference.pdf)] [[code](https://github.com/CausalML-Lab/CausalBandits_with_UnknownGraph)]
 
 
 
