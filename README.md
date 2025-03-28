@@ -168,7 +168,8 @@ If you find the paper useful, please cite with,
 - (**NeurIPS 2024**) Identifying Latent State-Transition Processes fo Individualized Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/e1d40e928125c515099a3fdb75f06a50-Paper-Conference.pdf)]
 - (**NeurIPS 2024**) Interpretable Reward Redistribution in Reinforcement Learning: A Causal Approach [[paper](https://openreview.net/pdf?id=w7TyuWhGZP)]
 - (**NeurIPS 2024**) Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c50e3c72bf45a361afc7c16d26c21a1a-Paper-Conference.pdf)] [[code](https://github.com/CausalML-Lab/CausalBandits_with_UnknownGraph)]
-
+- (**NeurIPS 2024**) Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning [[paper](https://openreview.net/pdf?id=Lu9Rasfmjj)] [[code](https://github.com/fsmiu/Two-wayDeconfounder
+)]
 
 
 
