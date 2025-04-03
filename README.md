@@ -150,6 +150,8 @@ If you find the paper useful, please cite with,
 
 ## :bookmark_tabs: Papers
 
+###
+- (**arxiv 2025**) 3CIL: CAUSALITY-INSPIRED CONTRASTIVE CONDITIONAL IMITATION LEARNING FOR AUTONOMOUS DRIVING [[paper](https://openreview.net/pdf?id=4QVgnxXVDB)]
 
 
 
@@ -182,7 +184,6 @@ If you find the paper useful, please cite with,
 - (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
 - (**ICLR 2023**) Causal Confusion and Reward Misidentification in Preference-Based Reward Learning [[paper](https://arxiv.org/pdf/2204.06601)]
 - (**ICLR 2023**) Causal Imitation Learning via Inverse Reinforcement Learning [[paper](https://openreview.net/pdf?id=B-z41MBL_tH)]
-
 - (**TPAMI 2023**) Invariant policy learning: A causal perspective [[paper](https://ieeexplore.ieee.org/abstract/document/10005169)]
 - (**TNNLS 2023**) Sample efficient deep reinforcement learning with online state abstraction and causal transformer model prediction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219179)]
 - (**TII 2023**) Spatial-temporal causality modeling for industrial processes with a knowledge-data guided reinforcement learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352645)]
