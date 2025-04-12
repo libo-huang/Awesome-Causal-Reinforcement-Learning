@@ -150,6 +150,8 @@ If you find the paper useful, please cite with,
 
 ## :bookmark_tabs: Papers
 
+###
+- (**arxiv 2025**) 3CIL: CAUSALITY-INSPIRED CONTRASTIVE CONDITIONAL IMITATION LEARNING FOR AUTONOMOUS DRIVING [[paper](https://openreview.net/pdf?id=4QVgnxXVDB)]
 
 
 
@@ -168,8 +170,10 @@ If you find the paper useful, please cite with,
 - (**NeurIPS 2024**) Identifying Latent State-Transition Processes fo Individualized Reinforcement Learning [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/e1d40e928125c515099a3fdb75f06a50-Paper-Conference.pdf)]
 - (**NeurIPS 2024**) Interpretable Reward Redistribution in Reinforcement Learning: A Causal Approach [[paper](https://openreview.net/pdf?id=w7TyuWhGZP)]
 - (**NeurIPS 2024**) Partial Structure Discovery is Sufficient for No-regret Learning in Causal Bandits [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/c50e3c72bf45a361afc7c16d26c21a1a-Paper-Conference.pdf)] [[code](https://github.com/CausalML-Lab/CausalBandits_with_UnknownGraph)]
-
-
+- (**NeurIPS 2024**) Two-way Deconfounder for Off-policy Evaluation in Causal Reinforcement Learning [[paper](https://openreview.net/pdf?id=Lu9Rasfmjj)] [[code](https://github.com/fsmiu/Two-wayDeconfounder
+)]
+- (**NeurIPS 2024**) Causal Imitation for Markov Decision Processes: a Partial Identification Approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/9f7f2f57d8eaf44b2f09020f64ff6d96-Paper-Conference.pdf)]
+- (**NeurIPS 2024**) Causal Imitation Learning via Inverse Reinforcement Learning [[paper](https://openreview.net/pdf?id=B-z41MBL_tH)]
 
 
 
@@ -179,6 +183,7 @@ If you find the paper useful, please cite with,
 - (**NeurIPS 2023**) Learning world models with identifiable factorization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65496a4902252d301cdf219339bfbf9e-Paper-Conference.pdf)] [[code](https://github.com/AlexLiuyuren/IFactor)]
 - (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
 - (**ICLR 2023**) Causal Confusion and Reward Misidentification in Preference-Based Reward Learning [[paper](https://arxiv.org/pdf/2204.06601)]
+- (**ICLR 2023**) Causal Imitation Learning via Inverse Reinforcement Learning [[paper](https://openreview.net/pdf?id=B-z41MBL_tH)]
 - (**TPAMI 2023**) Invariant policy learning: A causal perspective [[paper](https://ieeexplore.ieee.org/abstract/document/10005169)]
 - (**TNNLS 2023**) Sample efficient deep reinforcement learning with online state abstraction and causal transformer model prediction [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219179)]
 - (**TII 2023**) Spatial-temporal causality modeling for industrial processes with a knowledge-data guided reinforcement learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10352645)]
@@ -213,9 +218,9 @@ If you find the paper useful, please cite with,
 - (**ICML 2022**) Causal imitation learning under temporally correlated noise [[paper](https://proceedings.mlr.press/v162/swamy22a/swamy22a.pdf)] [[code](https://github.com/gkswamy98/causal_il)]
 - (**ECCV 2022**) Resolving copycat problems in visual imitation learning via residual action prediction [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990386.pdf)] [[code](https://github.com/linYDTHU/Resolving_copycat_problems_via_residual_prediction)]
 - (**AAAI 2022**) Invariant action effect model for reinforcement learning [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/20913)]
-- (**CHIL 2022**) Counterfactually Guided Policy Transfer in Clinical Settings [[paper](https://proceedings.mlr.press/v174/killian22a/killian22a.pdf)]
+- (**AAAI 2022**) Learning Human Driving Behaviors with Sequential Causal Imitation Learning [[paper](https://cdn.aaai.org/ojs/20382/20382-13-24395-1-2-20220628.pdf)] [[code](https://github.com/CU-DitecT/Causal-GAIL)]
+- (**CHIL 2022**) Counterfactually Guided Policy Transfer in Clinical Settings [[paper](https://proceedings.mlr.press/v174/killian22a/killian22a.pdf)
 - (**CLeaR 2022**) Efficient Reinforcement Learning with Prior Causal Knowledge [[paper](https://proceedings.mlr.press/v177/lu22a/lu22a.pdf)]
-- (**CHIL 2022**) Counterfactually Guided Policy Transfer in Clinical Settings [[paper](https://proceedings.mlr.press/v174/killian22a/killian22a.pdf)]
 - (**ICLR-W 2022**) Invariant causal representation learning for generalization in imitation and reinforcement learning [[paper](https://openreview.net/forum?id=r87xPSd89gq)]
 - (**arXiv 2022**) Offline reinforcement learning with causal structured world models [[paper](https://arxiv.org/pdf/2206.01474)]
 
