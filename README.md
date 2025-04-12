@@ -13,7 +13,7 @@
 
 [:bookmark_tabs: Papers](#bookmark_tabs-papers)
 
-&emsp; [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
+&emsp;[2025](#2025) | [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017) | [Pre-2017](#pre-2017)
 
 [:clap: Contributions](#clap-contributions-chinese-version)
 
@@ -150,8 +150,8 @@ If you find the paper useful, please cite with,
 
 ## :bookmark_tabs: Papers
 
-###
-- (**arxiv 2025**) 3CIL: CAUSALITY-INSPIRED CONTRASTIVE CONDITIONAL IMITATION LEARNING FOR AUTONOMOUS DRIVING [[paper](https://openreview.net/pdf?id=4QVgnxXVDB)]
+### 2025
+- (**arxiv 2025**) 3CIL: Causality-Inspired Contrastive Conditional Imitation Learning for Autonomous Driving [[paper](https://openreview.net/pdf?id=4QVgnxXVDB)]
 
 
 
