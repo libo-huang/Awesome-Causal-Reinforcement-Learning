@@ -66,13 +66,15 @@ If you find the paper useful, please cite with,
 
 ```bibtex
 @article{zeng2024survey,
-  title={A survey on causal reinforcement learning},
-  author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2024},
-  publisher={IEEE}
+    title={A Survey on Causal Reinforcement Learning},
+    author={Zeng, Yan and Cai, Ruichu and Sun, Fuchun and Huang, Libo and Hao, Zhifeng},
+    journal={IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)},
+    year={2024},
+    volume={36},
+    number={4},
+    pages={5942-5962},
+    publisher={IEEE}
 }
-
 ```
 
 ‼️ We have continuously updated the latest papers, so the scope of the literature covered extends beyond the above survey.
