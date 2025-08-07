@@ -152,8 +152,10 @@ If you find the paper useful, please cite with,
 
 ## :bookmark_tabs: Papers
 
+
 ### 2025
 - (**arxiv 2025**) 3CIL: Causality-Inspired Contrastive Conditional Imitation Learning for Autonomous Driving [[paper](https://openreview.net/pdf?id=4QVgnxXVDB)]
+
 
 
 
@@ -181,7 +183,7 @@ If you find the paper useful, please cite with,
 
 
 ### 2023
-
+- (**NeurIPS 2025**) Offline Imitation Learning with Variational Counterfactual Reasoning [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8833c8aa10542d24d693bbaf6a4598f5-Paper-Conference.pdf)] [[code](https://github.com/ZexuSun/OILCA-NeurIPS23)]
 - (**NeurIPS 2023**) Learning world models with identifiable factorization [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/65496a4902252d301cdf219339bfbf9e-Paper-Conference.pdf)] [[code](https://github.com/AlexLiuyuren/IFactor)]
 - (**NeurIPS 2023**) Interpretable reward redistribution in reinforcement learning: a causal approach [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/402e12102d6ec3ea3df40ce1b23d423a-Paper-Conference.pdf)]
 - (**ICLR 2023**) Causal Confusion and Reward Misidentification in Preference-Based Reward Learning [[paper](https://arxiv.org/pdf/2204.06601)]
