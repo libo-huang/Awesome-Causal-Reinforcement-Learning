@@ -110,6 +110,7 @@ If you find the paper useful, please cite with,
 
 ## :closed_book: Surveys
 - (**TNNLS 2025**) A survey on causal reinforcement learning [[our paper](https://ieeexplore.ieee.org/abstract/document/10771589)]
+- (**arxiv 2026**) An Introduction to Causal Reinforcement Learning [[paper](https://arxiv.org/pdf/2606.24160)] [[slides](https://ics.uci.edu/~dechter/courses/ics-295cr/2024-25_Q2_Winter/presentations/P1%20-%20Jiapeng%20Zhao%20-%20An%20Introduction%20to%20Causal%20Reinforcement%20Learning.pdf)]
 - (**arxiv 2025**) A review on causal decision making [[paper](https://arxiv.org/pdf/2502.16156)] [[code](https://causaldm.github.io/Causal-Decision-Making/Overview.html)]
 - (**Acta Automatica Sinica (自动化学报) 2024**) 基于因果建模的强化学习控制: 现状及展望 [[论文](http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c220823)]
 - (**TNNLS 2023**) A survey on reinforcement learning for recommender systems [[paper](https://ieeexplore.ieee.org/abstract/document/10144689)]
@@ -156,7 +157,8 @@ If you find the paper useful, please cite with,
 
 
 ### 2026 
-- (**JASA 2026**) Reinforcement learning with continuous actions under unmeasured confounding. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2590175)] 
+- (**JASA 2026**) Reinforcement learning with continuous actions under unmeasured confounding. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2590175)]
+- (**arxiv 2026**) An Introduction to Causal Reinforcement Learning [[paper](https://arxiv.org/pdf/2606.24160)] [[slides](https://ics.uci.edu/~dechter/courses/ics-295cr/2024-25_Q2_Winter/presentations/P1%20-%20Jiapeng%20Zhao%20-%20An%20Introduction%20to%20Causal%20Reinforcement%20Learning.pdf)]
 
 
 ### 2025
