@@ -108,7 +108,7 @@ If you find the paper useful, please cite with,
 
 
 
-## :closed_book: Surveys
+## :closed_book: Surveys or Introduction
 - (**TNNLS 2025**) A survey on causal reinforcement learning [[our paper](https://ieeexplore.ieee.org/abstract/document/10771589)]
 - (**arxiv 2026**) An Introduction to Causal Reinforcement Learning [[paper](https://arxiv.org/pdf/2606.24160)] [[slides](https://ics.uci.edu/~dechter/courses/ics-295cr/2024-25_Q2_Winter/presentations/P1%20-%20Jiapeng%20Zhao%20-%20An%20Introduction%20to%20Causal%20Reinforcement%20Learning.pdf)]
 - (**arxiv 2025**) A review on causal decision making [[paper](https://arxiv.org/pdf/2502.16156)] [[code](https://causaldm.github.io/Causal-Decision-Making/Overview.html)]
