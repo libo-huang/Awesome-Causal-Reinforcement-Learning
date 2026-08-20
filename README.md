@@ -170,6 +170,8 @@ If you find this repository or our survey helpful in your research, please consi
 
 
 ### 2026 
+- (**arxiv**) `[Intervention]` IADD-TR: Intervention-Aware Dynamics Decoupling with Targeted Regularization for Model-Based Reinforcement Learning [[paper](https://arxiv.org/pdf/2608.10634)] 
+- (**Transportation Research Part C: Emerging Technologies 2026**) `[Counterfactual]` Causal-aware deep reinforcement learning framework to predictively optimize for-hire vehicle fleet repositioning [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X26002445)]
 - (**JASA 2026**) ：`[Confounded MDP]` Reinforcement learning with continuous actions under unmeasured confounding. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2590175)]
 - (**ICLR 2026**) `[Causal Bandits]` Counterfactual Structural Causal Bandits [[paper](https://openreview.net/pdf?id=gjvTNxVd2f)] 
 - (**ICLR 2026**) `[Off Policy Evaluation]` Efficient and Sharp Off-Policy Learning Under Unobserved Confounding [[paper](https://openreview.net/pdf?id=7nTKiJLkWS)] [[code](https://github.com/konstantinhess/Efficient_sharp_policy_learning)]
