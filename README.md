@@ -170,7 +170,8 @@ If you find this repository or our survey helpful in your research, please consi
 
 
 ### 2026 
-- (**JASA 2026**) ：`[Confounded MDP]` Reinforcement learning with continuous actions under unmeasured confounding. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2590175)]
+- (**Engineered Science 2026**) `[Imitation + Causal Discovery]` Causal Adversarial Imitation Learning with Visual Observations for Continuous Control. [[paper](https://www.espublisher.com/journals/articledetails/2292)]
+- (**JASA 2026**) `[Confounded MDP]` Reinforcement learning with continuous actions under unmeasured confounding. [[paper](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2590175)]
 - (**ICLR 2026**) `[Causal Bandits]` Counterfactual Structural Causal Bandits [[paper](https://openreview.net/pdf?id=gjvTNxVd2f)] 
 - (**ICLR 2026**) `[Off Policy Evaluation]` Efficient and Sharp Off-Policy Learning Under Unobserved Confounding [[paper](https://openreview.net/pdf?id=7nTKiJLkWS)] [[code](https://github.com/konstantinhess/Efficient_sharp_policy_learning)]
 
